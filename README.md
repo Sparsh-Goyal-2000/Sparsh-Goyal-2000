@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sparsh Goyal
-- 👀 I’m working at VinSol
+- 👀 I’m working at VinSol | Stadium
 - 🌱 I’m currently working on RoR
 - 📫 Reach me at 2000sparshgoyal@gmail.com
 
